@@ -1,11 +1,11 @@
-# Traffic Sign Dataset Compilation
+# Traffic Sign Dataset Combined
 
 This repository contains a compiled dataset of traffic signs, created by merging well-known public datasets to enhance the number of classes and total images, thereby improving model robustness and precision. The datasets used in this compilation are as follows:
 
 1. **German Traffic Sign Recognition Dataset (GTSRB)**: [1]
 2. **Belgian Traffic Sign Dataset (BTSD)**: [2]
 3. **Chinese Traffic Sign Database (TSRD)**: [3]
-4. **MASTIF Traffic Sign Classification Dataset**: [4]
+4. **Croatian Traffic Sign Classification Dataset(MASTIF)**: [4]
 
 ## Summary of Datasets
 
